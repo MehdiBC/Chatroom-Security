@@ -7,7 +7,7 @@
 - each agent generates its key pairs
 - each agent registers its public key and username in the server
 
-## exchanging message:
+## exchanging messages
 let's assume that Alice wants to send a message to Bob in an unsecured channel
 - Alice configures that its destination is Bob
 - Alice receives the public key of Bob
