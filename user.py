@@ -1,4 +1,3 @@
-import hashlib
 import json
 import sys
 import threading
@@ -9,7 +8,6 @@ from rsa import PublicKey
 
 IP_ADDRESS = 'localhost'
 PORT_NUMBER = 8000
-
 
 class User:
     def __init__(self, username):
